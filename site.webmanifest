@@ -1,0 +1,24 @@
+
+ {
+    "name": "All About Accounts",
+    "short_name": "AAA",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjQzlIdIii094QNj0NfoY1TaLrsVHmyiG2wwcWNGUjY3jaWhsvPRVH6C65keebRKqPF27D3Ej6ibO6ljKEoWHvY-FC_tqbtZCaseaNw7RqBJxLxp5LtVYFIL1NbGpiufYf5y3KgwJx_9Zd9L7MaaxiamEZlT86kpYWY33S58rN_92DIyXPCrOT1zgyP=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjVjfrj1GGDolXbt8MH0ODMfXfNN5xDqsSL5V74TQS_hEcNZJu-fzAQT2tZSh4s7NWFNquVuF_v8OiilvWqBQOeSjNBdRhuM0UPmwtZa3hrTtSeHm5hNr-5kad4wMBHErD0kHXZ9plLlSBYS_lwbb-hE0bsnq32Dnjt0rzV4cMLExmXNKxWTz6z3jzW=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.allaboutaccounts.com/"
+}
